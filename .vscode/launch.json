@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "prob6",
+      "request": "launch",
+      "mainClass": "DP.prob6",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob5",
+      "request": "launch",
+      "mainClass": "DP.prob5",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
       "name": "prob4",
       "request": "launch",
       "mainClass": "DP.prob4",

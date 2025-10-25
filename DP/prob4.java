@@ -26,7 +26,7 @@ public class prob4 {
         }
         return dp[n-1];
     }
-    
+   
     public static void main(String[] args) {
         int n;
         System.out.println("enter the size of Array:");
@@ -42,6 +42,8 @@ public class prob4 {
         Arrays.fill(dp,-1);
         int ans=optimal(n,arr,dp);
         System.out.println("Maximum sum of subsequence is optimal:"+ans);
+        // int sol=optimalSpace(n,arr);
+        // System.out.println("optimalspace maxsum:"+sol);
         sc.close();
     }
 }
