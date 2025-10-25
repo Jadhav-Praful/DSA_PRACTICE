@@ -1,0 +1,479 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "prob4",
+      "request": "launch",
+      "mainClass": "DP.prob4",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob3",
+      "request": "launch",
+      "mainClass": "DP.prob3",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob2",
+      "request": "launch",
+      "mainClass": "DP.prob2",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob1",
+      "request": "launch",
+      "mainClass": "DP.prob1",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "IntroDp",
+      "request": "launch",
+      "mainClass": "DP.IntroDp",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "p4",
+      "request": "launch",
+      "mainClass": "Trees.p4",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "p3",
+      "request": "launch",
+      "mainClass": "Trees.p3",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "p2",
+      "request": "launch",
+      "mainClass": "Trees.p2",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "p1",
+      "request": "launch",
+      "mainClass": "Trees.p1",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "Prob_5",
+      "request": "launch",
+      "mainClass": "TwoPointerAndSlidingWindow.Prob_5",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "Prob_4",
+      "request": "launch",
+      "mainClass": "TwoPointerAndSlidingWindow.Prob_4",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "Prob_3",
+      "request": "launch",
+      "mainClass": "TwoPointerAndSlidingWindow.Prob_3",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "Prob_2",
+      "request": "launch",
+      "mainClass": "TwoPointerAndSlidingWindow.Prob_2",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "Prob_1",
+      "request": "launch",
+      "mainClass": "TwoPointerAndSlidingWindow.Prob_1",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_43",
+      "request": "launch",
+      "mainClass": "Graphs.prob_43",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_24",
+      "request": "launch",
+      "mainClass": "Arrays.prob_24",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_37",
+      "request": "launch",
+      "mainClass": "Arrays.prob_37",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "porb_37",
+      "request": "launch",
+      "mainClass": "Arrays.porb_37",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_38",
+      "request": "launch",
+      "mainClass": "Arrays.prob_38",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_33",
+      "request": "launch",
+      "mainClass": "Graphs.prob_33",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_32",
+      "request": "launch",
+      "mainClass": "Graphs.prob_32",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_28",
+      "request": "launch",
+      "mainClass": "Arrays.prob_28",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_22",
+      "request": "launch",
+      "mainClass": "Arrays.prob_22",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_21",
+      "request": "launch",
+      "mainClass": "Arrays.prob_21",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_19",
+      "request": "launch",
+      "mainClass": "Arrays.prob_19",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_23",
+      "request": "launch",
+      "mainClass": "Arrays.prob_23",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_15",
+      "request": "launch",
+      "mainClass": "Arrays.prob_15",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_14",
+      "request": "launch",
+      "mainClass": "Arrays.prob_14",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_4",
+      "request": "launch",
+      "mainClass": "Arrays.prob_4",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_13",
+      "request": "launch",
+      "mainClass": "Arrays.prob_13",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_5",
+      "request": "launch",
+      "mainClass": "Arrays.prob_5",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_2",
+      "request": "launch",
+      "mainClass": "Arrays.prob_2",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_11",
+      "request": "launch",
+      "mainClass": "Arrays.prob_11",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_10",
+      "request": "launch",
+      "mainClass": "Arrays.prob_10",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_9",
+      "request": "launch",
+      "mainClass": "Arrays.prob_9",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_3",
+      "request": "launch",
+      "mainClass": "Arrays.prob_3",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_6",
+      "request": "launch",
+      "mainClass": "Arrays.prob_6",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_8",
+      "request": "launch",
+      "mainClass": "Arrays.prob_8",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_7",
+      "request": "launch",
+      "mainClass": "Arrays.prob_7",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_1",
+      "request": "launch",
+      "mainClass": "Arrays.prob_1",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_31",
+      "request": "launch",
+      "mainClass": "Graphs.prob_31",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_9",
+      "request": "launch",
+      "mainClass": "Graphs.prob_9",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_8",
+      "request": "launch",
+      "mainClass": "Graphs.prob_8",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "Prob_30",
+      "request": "launch",
+      "mainClass": "Graphs.Prob_30",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_29",
+      "request": "launch",
+      "mainClass": "Graphs.prob_29",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_7",
+      "request": "launch",
+      "mainClass": "Graphs.prob_7",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_13",
+      "request": "launch",
+      "mainClass": "Graphs.prob_13",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_6",
+      "request": "launch",
+      "mainClass": "Graphs.prob_6",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prac",
+      "request": "launch",
+      "mainClass": "Graphs.prac",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_28",
+      "request": "launch",
+      "mainClass": "Graphs.prob_28",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_27",
+      "request": "launch",
+      "mainClass": "Graphs.prob_27",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_25",
+      "request": "launch",
+      "mainClass": "Graphs.prob_25",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_24",
+      "request": "launch",
+      "mainClass": "Graphs.prob_24",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_26",
+      "request": "launch",
+      "mainClass": "Graphs.prob_26",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_23",
+      "request": "launch",
+      "mainClass": "Graphs.prob_23",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_22",
+      "request": "launch",
+      "mainClass": "Graphs.prob_22",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_21",
+      "request": "launch",
+      "mainClass": "Graphs.prob_21",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_20",
+      "request": "launch",
+      "mainClass": "Graphs.prob_20",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_17",
+      "request": "launch",
+      "mainClass": "Graphs.prob_17",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_16",
+      "request": "launch",
+      "mainClass": "Graphs.prob_16",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_15",
+      "request": "launch",
+      "mainClass": "Graphs.prob_15",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_3",
+      "request": "launch",
+      "mainClass": "Graphs.prob_3",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_14",
+      "request": "launch",
+      "mainClass": "Graphs.prob_14",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_5",
+      "request": "launch",
+      "mainClass": "Graphs.prob_5",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "prob_4",
+      "request": "launch",
+      "mainClass": "Graphs.prob_4",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
