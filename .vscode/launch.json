@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "prob7",
+      "request": "launch",
+      "mainClass": "DP.prob7",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
+      "name": "recursion",
+      "request": "launch",
+      "mainClass": "recursion",
+      "projectName": "DSA PRACTICE_481b5616"
+    },
+    {
+      "type": "java",
       "name": "prob6",
       "request": "launch",
       "mainClass": "DP.prob6",
